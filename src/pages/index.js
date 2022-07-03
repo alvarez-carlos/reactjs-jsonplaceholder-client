@@ -1,0 +1,6 @@
+export {default as Albums} from './Albums'
+export {default as Comments} from './Comments'
+export {default as Photos} from './Photos'
+export {default as Posts} from './Posts'
+export {default as Todos} from './Todos'
+export {default as Users} from './Users'
